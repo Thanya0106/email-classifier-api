@@ -1,0 +1,11 @@
+email_text,category
+"Hi, I'm Rahul Kumar. My email is rahul@gmail.com and phone is 9876543210. I have a billing issue.",Incident
+"Please help reset my password.",Request
+"Internet is down again in my area.",Problem
+"My account was charged twice last month, please assist.",Incident
+"I can't log into my account after the recent update.",Problem
+"Need information on your premium plans.",Query
+"How do I update my billing address?",Request
+"The new feature is not working as expected.",Problem
+"Can you provide a status update on my support ticket?",Query
+"Thank you for your help with my last issue.",Feedback
